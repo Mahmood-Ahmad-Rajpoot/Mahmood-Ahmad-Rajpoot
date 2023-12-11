@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Mahmood-Ahmad-Rajpoot
 - 👀 I’m interested in coding and debugging.
-- 🌱 I’m currently learning react.js and node.js.
-- 💞️ I’m looking to collaborate on react.js and industrial level programming.
-- 📫 How to reach me mahmood.ahmad.37@gmail.com.
+- 🌱 I’m currently working on react.js, next.js and node.js.
+- 💞️ I’m looking for well-known companies to work to polish my skills.
+- 📫 How to reach me: mahmoodraj75@gmail.com.
 
 <!---
 Mahmood-Ahmad-Rajpoot/Mahmood-Ahmad-Rajpoot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
